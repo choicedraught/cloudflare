@@ -1,5 +1,5 @@
 # Cloudflare
 
-Few little script to help manage a Cloudflare account.
+Few little scripts to help manage a Cloudflare account.
 
 @cd
